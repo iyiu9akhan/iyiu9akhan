@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🎨 Frontend Development – Crafting responsive and elegant UI. using HTML, CSS and Bootstrap ;<br><br>🖥️ Backend Development – Developing scalable, efficient server-side applications ;<br><br>📱 Mobile App Design – Designing intuitive, user-friendly mobile interfaces ;<br><br>🗄️ Database Management – Structuring and optimizing reliable, scalable databases ;</p>
+<p align="left">🎨 Frontend Development – Crafting responsive and elegant UI. using HTML , CSS and Bootstrap ;<br><br>🖥️ Backend Development – Developing scalable, efficient server-side applications ;<br><br>📱 Mobile App Design – Designing intuitive, user-friendly mobile interfaces ;<br><br>🗄️ Database Management – Structuring and optimizing reliable, scalable databases ;</p>
 
 ###
 
