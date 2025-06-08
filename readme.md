@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hello, I'm Muhammad Sameer Khan. A passionate MERN stack developer dedicated to crafting high-performance web applications. With a focus on scalable architecture and optimized performance, I specialize in delivering modern, user-focused web solutions that combine sleek design with robust development.</p>
+<p align="left">Hello, I'm Muhammad Sameer Khan. A passionate MERN stack developer, dedicated to crafting high-performance web applications. With focus on scalable architecture and optimized performance - I specialize in delivering modern, user-focused web solutions that combine sleek design with robust development.</p>
 
 ###
 
