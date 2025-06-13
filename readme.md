@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">I’m Sameer ; <br>Shaping the digital world through thoughtful design <br>and intentional development.</h2>
+<h2 align="center">I’m Sameer ;<br>Shaping the digital world through thoughtful design<br>and intentional development.</h2>
 
 ###
 
@@ -100,6 +100,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
+###
 
 <h2 align="left">⚙️ Development Analytics :</h2>
 
