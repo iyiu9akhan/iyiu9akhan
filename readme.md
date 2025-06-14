@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">🌿Commonly Used Stack :</h2>
+<h2 align="left">🌿 Commonly Used Stack :</h2>
 
 ###
 
