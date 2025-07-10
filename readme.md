@@ -24,7 +24,7 @@
 
 <h2 align="center">I’m Sameer ;<br>Shaping the digital world through thoughtful design<br>and intentional development.
 
-</h2>
+</h2> 
 
 ###
 
