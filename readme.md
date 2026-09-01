@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="285" src="আপনার_কভার_ফটোর_লিঙ্ক" />
+<img align="left" height="285" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
 
@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="335" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"  />
+  <img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQHQJ62X20_k9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715015383921?e=1743638400&v=beta&t=04B-yLzBvGisdY1N1t33_S6uQ9HIn-0wZstF1P9S1zE" alt="LinkedIn Banner" />
 </div>
 
 ###
