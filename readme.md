@@ -6,24 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="285" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <a href="https://x.com/iyiu9akhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=iyiu9akhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">🧑‍💻  About Me :</h2>
 
 ###
