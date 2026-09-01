@@ -79,9 +79,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="50" alt="redux logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="docker logo" />
-  <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="50" alt="vercel logo" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="vercel logo" />
 </div>
 
 ###
