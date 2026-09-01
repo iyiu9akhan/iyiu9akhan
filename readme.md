@@ -1,5 +1,13 @@
 <br clear="both">
 
+<div align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/fda6021f-1d44-4c0c-920c-9b35646006ea" alt="LinkedIn Banner" />
+</div>
+
+###
+
+<br clear="both">
+
 <img align="left" height="285" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
@@ -16,18 +24,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iyiu9akhan.iyiu9akhan&left_color=red"  />
-</div>
-
-###
-
-<h2 align="center">Actively developing expertise in the MERN Stack. Committed to continuous learning, writing clean code, and solving complex architectural problems. Let’s connect : @iyiu9akhan</h2> 
-
-###
-
-<br clear="both">
-
 <h2 align="left">🧑‍💻  About Me :</h2>
 
 ###
@@ -41,14 +37,6 @@
 ###
 
 <p align="left">🎨 Frontend Development – Crafting responsive and elegant UI using HTML , CSS and Bootstrap ;<br><br>🖥️ Backend Development – Developing scalable , efficient server-side applications ;<br><br>📱 Mobile App Design – Designing intuitive, user-friendly mobile interfaces ;<br><br>🗄️ Database Management – Structuring and optimizing reliable , scalable databases ;</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/fda6021f-1d44-4c0c-920c-9b35646006ea" alt="LinkedIn Banner" />
-</div>
 
 ###
 
