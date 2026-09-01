@@ -22,9 +22,7 @@
 
 ###
 
-<h2 align="center">I’m Sameer ;<br>Shaping the digital world through thoughtful design<br>and intentional development.
-
-</h2> 
+<h2 align="center">Actively developing expertise in the MERN Stack. Committed to continuous learning, writing clean code, and solving complex architectural problems. Let’s connect : @iyiu9akhan</h2> 
 
 ###
 
