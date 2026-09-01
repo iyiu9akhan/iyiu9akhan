@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/fda6021f-1d44-4c0c-920c-9b35646006ea" alt="LinkedIn Banner" />
+  <img width="100%" src="https://github.com/user-attachments/assets/43a46292-286f-4f19-972a-50f95aff7726" alt="LinkedIn Banner" />
 </div>
 
 ###
@@ -19,6 +19,10 @@
 ###
 
 <p align="left">🎨 Frontend Development – Crafting responsive and elegant UI using HTML , CSS and Bootstrap ;<br><br>🖥️ Backend Development – Developing scalable , efficient server-side applications ;<br><br>📱 Mobile App Design – Designing intuitive, user-friendly mobile interfaces ;<br><br>🗄️ Database Management – Structuring and optimizing reliable , scalable databases ;</p>
+
+###
+
+<h2 align="left">🌿 Commonly used Stack :</h2>
 
 ###
 
@@ -55,7 +59,6 @@
 ###
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
@@ -67,9 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  
-  <br><br> 
-
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
@@ -80,7 +81,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="docker logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="50" alt="vercel logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="50" alt="vercel logo" />
 </div>
 
 ###
