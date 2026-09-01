@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQHQJ62X20_k9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715015383921?e=1743638400&v=beta&t=04B-yLzBvGisdY1N1t33_S6uQ9HIn-0wZstF1P9S1zE" alt="LinkedIn Banner" />
+  <img width="100%" src="https://github.com/user-attachments/assets/fda6021f-1d44-4c0c-920c-9b35646006ea" alt="LinkedIn Banner" />
 </div>
 
 ###
