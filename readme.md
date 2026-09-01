@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello, I'm Muhammad Sameer Khan. A passionate MERN stack developer, dedicated to crafting high-performance web applications. With focus on scalable architecture and optimized performance - I specialize in providing modern, user-centric web solutions that combine sleek design with powerful development.</p>
+<p align="left">Results-oriented Web Development student with 2+ years of hand-on experience in building full-stack applications using the MERN ( MongoDB , ExpressJS , React , NodeJS ) Stack. My curiosity extends to AI, Web technologies  and innovative software solutions, where i constantly explore ways to merge cutting-edge tech with real-world impact.</p>
 
 ###
 
@@ -18,8 +18,11 @@
 
 ###
 
-<p align="left">🎨 Frontend Development – Crafting responsive and elegant UI using HTML , CSS and Bootstrap ;<br><br>🖥️ Backend Development – Developing scalable , efficient server-side applications ;<br><br>📱 Mobile App Design – Designing intuitive, user-friendly mobile interfaces ;<br><br>🗄️ Database Management – Structuring and optimizing reliable , scalable databases ;</p>
-
+<p align="left">
+  ⚡ <b>Scalable & Clean Code</b> : Reliable, maintainable full-stack architecture;<br><br>
+  🚀 <b>Fast Tech Adoption</b> : Quick integration of modern web tools and AI capabilities;<br><br>
+  🎯 <b>Full Project Ownership</b> : End-to-end execution from development to deployment;
+</p>
 ###
 
 <h2 align="left">🌿 Commonly used Stack :</h2>
