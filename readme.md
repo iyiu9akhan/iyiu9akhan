@@ -1,12 +1,10 @@
-<br clear="both">
-
 <div align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/43a46292-286f-4f19-972a-50f95aff7726" alt="LinkedIn Banner" />
 </div>
 
 ###
 
-<h2 align="left">🧑‍💻  About Me :</h2>
+<h2 align="left">🧑‍💻 About Me :</h2>
 
 ###
 
@@ -74,6 +72,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="50" alt="redux logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="vercel logo" />
+</div>
+
+###
+
+<h2 align="left">🌐 Connect With Me :</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&background=%233b82f6&animation=breathe&color=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="linkedin" /></a>
+  <img width="15" />
+  <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96&background=%233b82f6&animation=breathe&color=%23ffffff&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="facebook" /></a>
+  <img width="15" />
+  <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=96&background=%23f3f4f6&animation=breathe&color=%23000000&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="x" /></a>
+  <img width="15" />
+  <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=96&background=%23ffffff&animation=breathe&color=%23ef4444&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="instagram" /></a>
 </div>
 
 ###
