@@ -14,25 +14,36 @@
   🎯 <b>Full Project Ownership</b> : End-to-end execution from development to deployment;
 </p>
 
-<h2 align="left">🌿 Commonly used Stack :</h2>
+<h2 align="left">🌿 Commonly used Stack & Most Used Languages :</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="ts logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="express logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="50" alt="mongoose logo" />
-</div>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
+        <img width="10" />
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" alt="express" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="45" alt="mongoose" />
+      </div>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.readmecodegen.com/custom-github-card-generator">
+        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">🛠️ Tools & Technologies :</h2>
 
@@ -58,21 +69,6 @@
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="vercel logo" />
 </div>
 
-<h2 align="left">🧩 Code Contributions & Most Used Languages :</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://www.readmecodegen.com/custom-github-card-generator">
-        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <h2 align="left">🌐 Let’s connect :</h2>
 
 <div align="center">
@@ -86,3 +82,9 @@
   <img width="15" />
   <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=50&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="instagram" /></a>
 </div>
+
+<h2 align="left">🧩 Code Contributions :</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" />
+</p>
