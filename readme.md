@@ -16,36 +16,36 @@
 
 <h2 align="left">🌿 Commonly used Stack & Most Used Languages :</h2>
 
-<h2 align="left">🌿 Commonly used Stack & Most Used Languages :</h2>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="55" alt="typescript" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs" />
-      <br><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" alt="express" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="55" alt="mongoose" />
-      <br><br>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://www.readmecodegen.com/custom-github-card-generator">
-        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr valign="middle">
+      <td align="center" width="400">
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="68" alt="typescript" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="68" alt="react" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="68" alt="nextjs" />
+        <br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="68" alt="nodejs" />
+        <img width="15" />
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" height="68" alt="express" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="68" alt="mongodb" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="68" alt="mongoose" />
+        <br><br>
+      </td>
+      <td align="center" width="400">
+        <a href="https://www.readmecodegen.com/custom-github-card-generator">
+          <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="left">🛠️ Tools & Technologies :</h2>
 
