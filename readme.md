@@ -38,9 +38,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="68" alt="mongoose" />
         <br><br>
       </td>
-      <td align="center" width="400" style="border: none;">
+      <td align="center" width="400">
         <a href="https://www.readmecodegen.com/custom-github-card-generator">
-          <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
+          <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs&showBorder=false" alt="Custom GitHub Stats" width="100%" />
         </a>
       </td>
     </tr>
