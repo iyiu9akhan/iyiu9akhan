@@ -83,9 +83,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=64&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="linkedin" /></a>
   <img width="15" />
-  <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=64&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="facebook" /></a>
-  <img width="15" />
   <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=64&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="x" /></a>
+  <img width="15" />
+  <a href="https://www.threads.net/@iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=threads&size=64&background=%23f3f4f6&link=https%3A%2F%2Fwww.threads.net%2F%40iyiu9akhan" alt="threads" /></a>
+  <img width="15" />
+  <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=64&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="facebook" /></a>
   <img width="15" />
   <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=64&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="instagram" /></a>
 </div>
