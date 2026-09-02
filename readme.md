@@ -74,9 +74,20 @@
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="vercel logo" />
 </div>
 
+
 ###
 
-<h2 align="left">🌐 Connect With Me :</h2>
+<h2 align="left">🧩 Code Contributions :</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">🌐 Let’s connect :</h2>
 
 ###
 
@@ -91,13 +102,3 @@
   <img width="15" />
   <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=50&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="instagram" /></a>
 </div>
-
-###
-
-<h2 align="left">🧩 Code Contributions :</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" />
