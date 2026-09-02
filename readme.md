@@ -58,11 +58,20 @@
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="vercel logo" />
 </div>
 
-<h2 align="left">🧩 Code Contributions :</h2>
+<h2 align="left">🧩 Code Contributions & Most Used Languages :</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/output/snake.svg" alt="Snake animation" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.readmecodegen.com/custom-github-card-generator">
+        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs" alt="Custom GitHub Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">🌐 Let’s connect :</h2>
 
