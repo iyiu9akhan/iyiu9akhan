@@ -6,7 +6,7 @@
 
 <p align="left">Results-oriented Web Development student with 2+ years of hand-on experience in building full-stack applications using the MERN ( MongoDB , ExpressJS , React , NodeJS ) Stack. My curiosity extends to AI, Web technologies and innovative software solutions, where i constantly explore ways to merge cutting-edge tech with real-world impact.</p>
 
-<h2 align="left">🔧 What I Do :</h2>
+<h2 align="left">🔧 What i do :</h2>
 
 <p align="left">
   ⚡ <b>Scalable & Clean Code</b> : Reliable, maintainable full-stack architecture;<br><br>
