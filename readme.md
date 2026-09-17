@@ -4,7 +4,7 @@
 
 <h2 align="left">🧑‍💻 About me :</h2>
 
-<p align="left">Results-oriented Web Developer with 2+ years of hand-on experience in building full-stack applications using the MERN ( MongoDB , ExpressJS , React , NodeJS ) Stack. My curiosity extends to AI, Web technologies and innovative software solutions, where i constantly explore ways to merge cutting-edge tech with real-world impact.</p>
+<p align="left">Results-oriented Web Developer with 2+ years of hand-on experience in building full-stack web applications using the MERN ( MongoDB , ExpressJS , React , NodeJS ) Stack. My curiosity extends to AI, Web technologies and innovative software solutions, where i constantly explore ways to merge cutting-edge tech with real-world impact.</p>
 
 <h2 align="left">🔧 What i do :</h2>
 
