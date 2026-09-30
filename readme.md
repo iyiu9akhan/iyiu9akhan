@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/43a46292-286f-4f19-972a-50f95aff7726" alt="LinkedIn Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/refs/heads/main/img/iyiu9akhan.png" alt="LinkedIn Banner" />
 </div>
 
 <h2 align="left">🧑‍💻 About me :</h2>
