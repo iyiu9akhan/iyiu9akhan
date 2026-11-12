@@ -90,7 +90,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 ## 🚀 Projects
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>📘 <a href="https://b14-a08-cat-hermione.vercel.app/">Hermione</a></h3>
@@ -137,7 +137,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 ## 📊 GitHub Statistics & Social
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>📊 Most Used Languages</h3>
@@ -153,31 +153,18 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <div style="display: flex; flex-direction: column; align-items: center; gap: 14px;">
-        <div style="display: flex; gap: 16px;">
-          <a href="https://www.linkedin.com/in/iyiu9akhan/">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" />
-          </a>
-          <a href="https://x.com/iyiu9akhan">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" />
-          </a>
-        </div>
-        <div style="display: flex; gap: 16px;">
-          <a href="https://www.threads.net/@iyiu9akhan">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=threads&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.threads.net%2F%40iyiu9akhan" alt="Threads" />
-          </a>
-          <a href="https://www.facebook.com/iyiu9akhan/">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="Facebook" />
-          </a>
-        </div>
-        <div style="display: flex; gap: 16px;">
-          <a href="https://www.instagram.com/iyiu9akhan">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="Instagram" />
-          </a>
-          <a href="https://iyiu9akhan.vercel.app/">
-            <img src="https://www.readmecodegen.com/api/social-icon?name=user&size=60&color=000000&background=%23f3f4f6&link=https%3A%2F%2Fiyiu9akhan.vercel.app%2F" alt="Portfolio" />
-          </a>
-        </div>
+      <div align="center">
+        <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" /></a>
+        <br /><br />
+        <a href="https://www.threads.net/@iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=threads&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.threads.net%2F%40iyiu9akhan" alt="Threads" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="Facebook" /></a>
+        <br /><br />
+        <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="Instagram" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://iyiu9akhan.vercel.app/"><img src="https://www.readmecodegen.com/api/social-icon?name=user&size=60&color=000000&background=%23f3f4f6&link=https%3A%2F%2Fiyiu9akhan.vercel.app%2F" alt="Portfolio" /></a>
       </div>
     </td>
   </tr>
