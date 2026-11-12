@@ -1,9 +1,12 @@
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/refs/heads/main/img/iyiu9akhan.png" alt="iyiu9akhan – MERN Stack Developer, GitHub profile banner" />
-</div>
 
-<h1 align="center">Muhammad Sameer Khan</h1>
-<h3 align="center">Full Stack Developer (MERN)</h3>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/refs/heads/main/img/iyiu9akhan.png" alt="Profile Banner" />
+
+  <br /><br />
+
+  <font size="6"><b>Muhammad Sameer Khan</b></font>
+  <p><strong>Full Stack Developer (MERN)</strong></p>
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -83,58 +86,103 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 </table>
 </div>
 
+---
+
 ## 🚀 Projects
-
-### 🤝 [Hermione](https://b14-a08-cat-hermione.vercel.app/) · Donation & Relief Event Manager
-
-<p align="justify">
-A community web app for organizing, discovering and joining local donation and relief events across Bangladesh, such as food distributions, winter clothing drives and cleanups. Organizers post events with capacity limits, and volunteers find nearby initiatives and register.
-</p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/OAuth_2.0_(Google)-4285F4?style=flat-square&logo=google&logoColor=white" alt="OAuth 2.0 Google" />
-
-**Key Features**
-
-- Browse, search and filter events by title, location or type
-- Create events with future-date validation and participant limits
-- Join and leave events with live seat tracking
-- Private organizer dashboard to manage, update and delete your own events
-- Email/password and Google OAuth authentication
-- Light and dark themes with skeleton loading screens and toast notifications
-
-🔗 **Live:** [b14-a08-cat-hermione.vercel.app](https://b14-a08-cat-hermione.vercel.app/)
 
 <div align="center">
 <table>
   <tr>
-    <td width="400" align="center"><h3>📊 Most Used Languages</h3></td>
-    <td width="400" align="center"><h3>🌐 Let's Connect</h3></td>
+    <td width="50%" valign="top">
+      <h3>📘 <a href="https://b14-a08-cat-hermione.vercel.app/">Hermione</a></h3>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 <a href="https://ph-a07-bazardor.vercel.app/">BazarDor (বাজার দর)</a></h3>
+    </td>
   </tr>
   <tr>
-    <td width="400" align="center" valign="middle">
-      <a href="https://www.readmecodegen.com/custom-github-card-generator">
-        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs&showBorder=false&prs=false&issues=false&followers=false&following=false" alt="Most used languages on GitHub" width="100%" />
-      </a>
+    <td width="50%" valign="top">
+      <p>A community donation and relief event management web app for organizing, discovering and joining local social initiatives across Bangladesh.</p>
     </td>
-    <td width="400" align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" /></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" /></a>
-      <br><br>
-      <a href="https://www.threads.net/@iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=threads&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.threads.net%2F%40iyiu9akhan" alt="Threads" /></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="Facebook" /></a>
-      <br><br>
-      <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="Instagram" /></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://iyiu9akhan.vercel.app/"><img src="https://www.readmecodegen.com/api/social-icon?name=user&size=60&color=000000&background=%23f3f4f6&link=https%3A%2F%2Fiyiu9akhan.vercel.app%2F" alt="Portfolio" /></a>
+    <td width="50%" valign="top">
+      <p>Track, monitor and compare daily market prices of essential commodities in Bangladesh, with clear price-trend indicators and a Bangla-first interface.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/OAuth_2.0_(Google)-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google OAuth" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/BetterAuth-5A4FCF?style=flat-square" alt="BetterAuth" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <p>🔗 <a href="https://b14-a08-cat-hermione.vercel.app/"><b>Live Demo</b></a></p>
+    </td>
+    <td width="50%" valign="middle">
+      <p>🔗 <a href="https://ph-a07-bazardor.vercel.app/"><b>Live Demo</b></a></p>
     </td>
   </tr>
 </table>
 </div>
+
+---
+
+## 📊 GitHub Statistics & Social
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📊 Most Used Languages</h3>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Let's Connect</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.readmecodegen.com/custom-github-card-generator">
+        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs&showBorder=false&prs=false&issues=false&followers=false&following=false" alt="Most used languages on GitHub" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/iyiu9akhan/">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://x.com/iyiu9akhan">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" />
+      </a>
+      <br /><br />
+      <a href="https://www.threads.net/@iyiu9akhan">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=threads&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.threads.net%2F%40iyiu9akhan" alt="Threads" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/iyiu9akhan/">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="Facebook" />
+      </a>
+      <br /><br />
+      <a href="https://www.instagram.com/iyiu9akhan">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="Instagram" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://iyiu9akhan.vercel.app/">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=user&size=60&color=000000&background=%23f3f4f6&link=https%3A%2F%2Fiyiu9akhan.vercel.app%2F" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ## 🧩 Code Contributions
 
