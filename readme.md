@@ -83,6 +83,30 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 </table>
 </div>
 
+## 🚀 Projects
+
+### 🤝 [Hermione](https://b14-a08-cat-hermione.vercel.app/) · Donation & Relief Event Manager
+
+<p align="justify">
+A community web app for organizing, discovering and joining local donation and relief events across Bangladesh, such as food distributions, winter clothing drives and cleanups. Organizers post events with capacity limits, and volunteers find nearby initiatives and register.
+</p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/OAuth_2.0_(Google)-4285F4?style=flat-square&logo=google&logoColor=white" alt="OAuth 2.0 Google" />
+
+**Key Features**
+
+- Browse, search and filter events by title, location or type
+- Create events with future-date validation and participant limits
+- Join and leave events with live seat tracking
+- Private organizer dashboard to manage, update and delete your own events
+- Email/password and Google OAuth authentication
+- Light and dark themes with skeleton loading screens and toast notifications
+
+🔗 **Live:** [b14-a08-cat-hermione.vercel.app](https://b14-a08-cat-hermione.vercel.app/)
+
 <div align="center">
 <table>
   <tr>
