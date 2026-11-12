@@ -2,6 +2,9 @@
   <img width="100%" src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/refs/heads/main/img/iyiu9akhan.png" alt="iyiu9akhan – MERN Stack Developer, GitHub profile banner" />
 </div>
 
+<h1 align="center">Muhammad Sameer Khan</h1>
+<h3 align="center">Full Stack Developer (MERN)</h3>
+
 ## 🧑‍💻 About Me
 
 <p align="justify">
@@ -83,18 +86,16 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 <div align="center">
 <table>
   <tr>
-    <td width="380" align="center"><h3>📊 Most Used Languages</h3></td>
-    <td width="40"></td>
-    <td width="380" align="center"><h3>🌐 Let's Connect</h3></td>
+    <td width="400" align="center"><h3>📊 Most Used Languages</h3></td>
+    <td width="400" align="center"><h3>🌐 Let's Connect</h3></td>
   </tr>
   <tr>
-    <td width="380" align="center" valign="middle">
+    <td width="400" align="center" valign="middle">
       <a href="https://www.readmecodegen.com/custom-github-card-generator">
         <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs&showBorder=false&prs=false&issues=false&followers=false&following=false" alt="Most used languages on GitHub" width="100%" />
       </a>
     </td>
-    <td width="40"></td>
-    <td width="380" align="center" valign="middle">
+    <td width="400" align="center" valign="middle">
       <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" /></a>
