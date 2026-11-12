@@ -10,16 +10,16 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
 
 ## 🔧 Core Strengths
 
-- ⚡ **Scalable & Clean Code**: reliable, maintainable full-stack architecture
-- 🚀 **Fast Tech Adoption**: quick integration of modern web tools and AI capabilities
-- 🎯 **Full Project Ownership**: end-to-end execution from development to deployment
+- **Scalable & Clean Code**: reliable, maintainable full-stack architecture
+- **Fast Tech Adoption**: quick integration of modern web tools and AI capabilities
+- **Full Project Ownership**: end-to-end execution from development to deployment
 
 ## 🛠️ Skills
 
 <div align="center">
 <table>
   <tr>
-    <td width="190"><b>💻 Languages</b></td>
+    <td width="190"><b>Languages</b></td>
     <td width="610">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -28,7 +28,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
     </td>
   </tr>
   <tr>
-    <td><b>🎨 Frontend</b></td>
+    <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -39,7 +39,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ Backend & Database</b></td>
+    <td><b>Backend & Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
@@ -50,7 +50,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
     </td>
   </tr>
   <tr>
-    <td><b>🔐 Authentication</b></td>
+    <td><b>Authentication</b></td>
     <td>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/OAuth_2.0_(Google)-4285F4?style=flat-square&logo=google&logoColor=white" alt="OAuth 2.0 Google" />
@@ -58,7 +58,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
     </td>
   </tr>
   <tr>
-    <td><b>🧰 Tools & Platforms</b></td>
+    <td><b>Tools & Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -71,7 +71,7 @@ Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in buil
     </td>
   </tr>
   <tr>
-    <td><b>🤖 AI Tools</b></td>
+    <td><b>AI Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
