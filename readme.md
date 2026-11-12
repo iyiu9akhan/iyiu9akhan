@@ -2,13 +2,11 @@
   <img width="100%" src="https://raw.githubusercontent.com/iyiu9akhan/iyiu9akhan/refs/heads/main/img/iyiu9akhan.png" alt="iyiu9akhan – MERN Stack Developer, GitHub profile banner" />
 </div>
 
-<br>
-
 ## 🧑‍💻 About Me
 
-Focused **MERN Stack** Developer with 2+ years of hands-on experience in building and deploying scalable, user-friendly full-stack web applications. Skilled in React, Next.js, TypeScript, Node.js, Express.js and MongoDB, with strong experience in REST API development, authentication systems and responsive design. Capable of handling projects end to end, from design to deployment, and passionate about applying AI to solve real-world problems.
-
-<br>
+<p align="justify">
+Focused <b>MERN Stack</b> Developer with 2+ years of hands-on experience in building and deploying scalable, user-friendly full-stack web applications. Skilled in React, Next.js, TypeScript, Node.js, Express.js and MongoDB, with strong experience in REST API development, authentication systems and responsive design. Capable of handling projects end to end, from design to deployment, and passionate about applying AI to solve real-world problems.
+</p>
 
 ## 🔧 Core Strengths
 
@@ -16,14 +14,13 @@ Focused **MERN Stack** Developer with 2+ years of hands-on experience in buildin
 - 🚀 **Fast Tech Adoption**: quick integration of modern web tools and AI capabilities
 - 🎯 **Full Project Ownership**: end-to-end execution from development to deployment
 
-<br>
-
 ## 🛠️ Skills
 
+<div align="center">
 <table>
   <tr>
     <td width="190"><b>💻 Languages</b></td>
-    <td>
+    <td width="610">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -81,23 +78,23 @@ Focused **MERN Stack** Developer with 2+ years of hands-on experience in buildin
     </td>
   </tr>
 </table>
+</div>
 
-<br>
-
-<table width="100%">
+<div align="center">
+<table>
   <tr>
-    <td width="48%" align="center"><h3>📊 Most Used Languages</h3></td>
-    <td width="4%"></td>
-    <td width="48%" align="center"><h3>🌐 Let's Connect</h3></td>
+    <td width="380" align="center"><h3>📊 Most Used Languages</h3></td>
+    <td width="40"></td>
+    <td width="380" align="center"><h3>🌐 Let's Connect</h3></td>
   </tr>
   <tr>
-    <td width="48%" align="center" valign="middle">
+    <td width="380" align="center" valign="middle">
       <a href="https://www.readmecodegen.com/custom-github-card-generator">
         <img src="https://www.readmecodegen.com/api/github-stats/svg?username=iyiu9akhan&cardType=langs&showBorder=false&prs=false&issues=false&followers=false&following=false" alt="Most used languages on GitHub" width="100%" />
       </a>
     </td>
-    <td width="4%"></td>
-    <td width="48%" align="center" valign="middle">
+    <td width="40"></td>
+    <td width="380" align="center" valign="middle">
       <a href="https://www.linkedin.com/in/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiyiu9akhan%2F" alt="LinkedIn" /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://x.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=60&background=%23f3f4f6&link=https%3A%2F%2Fx.com%2Fiyiu9akhan" alt="X" /></a>
@@ -107,11 +104,12 @@ Focused **MERN Stack** Developer with 2+ years of hands-on experience in buildin
       <a href="https://www.facebook.com/iyiu9akhan/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.facebook.com%2Fiyiu9akhan%2F" alt="Facebook" /></a>
       <br><br>
       <a href="https://www.instagram.com/iyiu9akhan"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=60&background=%23f3f4f6&link=https%3A%2F%2Fwww.instagram.com%2Fiyiu9akhan" alt="Instagram" /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://iyiu9akhan.vercel.app/"><img src="https://www.readmecodegen.com/api/social-icon?name=user&size=60&color=000000&background=%23f3f4f6&link=https%3A%2F%2Fiyiu9akhan.vercel.app%2F" alt="Portfolio" /></a>
     </td>
   </tr>
 </table>
-
-<br>
+</div>
 
 ## 🧩 Code Contributions
 
